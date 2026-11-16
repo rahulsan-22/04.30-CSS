@@ -1,0 +1,48 @@
+/* !ID(#) */
+/* #special{
+  color: white;
+  background-color: red;
+} */
+
+/*! CLASS (.) */
+/* .biryani{
+  color: white;
+  background-color: purple;
+}
+
+.fav{
+  text-align: center; 
+}*/
+
+/* !TAGNAME */
+/* a{
+ color:maroon;
+} */
+
+/* !GROUPING (,) */
+/* #cream,.butter,h3{
+  color: white;
+  background-color: hotpink;
+} */
+
+/*! UNIVERSAL (*) */
+/* *{
+  border: 2px solid black;
+} */
+
+/* !Priorities */
+h1{
+  color: red;
+}
+
+#hello{
+  color: blue;
+}
+
+.bye{
+  color: green;
+}
+
+*{
+  color: yellow;
+}
