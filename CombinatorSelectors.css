@@ -1,0 +1,93 @@
+/* !Descendent (space) */
+/* section h1{
+  color: white;
+  background-color: red;
+} */
+
+/* section p{
+  color: white;
+  background-color: green;
+} */
+
+/* section div{
+  color: white;
+  background-color: brown;
+} */
+
+/* div p{
+  color: white;
+  background-color: aqua;
+} */
+
+/* div h1{
+  color: white;
+  background-color: seagreen;
+} */
+
+/* !Child (>) */
+/* section>h1{
+  color: white;
+  background-color: blue;
+} */
+
+/* section>p{
+  color: white;
+  background-color: green;
+} */
+
+/* section>div{
+  color: white;
+  background-color: brown;
+} */
+
+/* div>p{
+  color: white;
+  background-color: aqua;
+} */
+
+/* div>h1{
+  color: white;
+  background-color: seagreen;
+} */
+
+/* !Adjacent Sibling (+) */
+/* p+h1{
+  color: white;
+  background-color: yellowgreen;
+} */
+
+/* h1+p{
+  color: white;
+  background-color: rosybrown;
+} */
+
+/* p+p{
+  color: white;
+  background-color: orangered;
+} */
+
+/* p+div{
+  color: white;
+  background-color:dodgerblue;
+} */
+
+/* !General Sibling (~) */
+/* p~h1{
+  color: white;
+  background-color: yellowgreen;
+} */
+
+/* h1~p{
+  color: white;
+  background-color: rosybrown;
+} */
+
+/* p~p{
+  color: white;
+  background-color: orangered;
+} */
+
+/* p~div{
+  color: white;
+  background-color:dodgerblue;
+} */
