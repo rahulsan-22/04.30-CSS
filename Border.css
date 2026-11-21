@@ -1,0 +1,47 @@
+h1 {
+  color: red;
+  /* border-width: 10px; */
+  /* border-style: none;
+  border-style: solid;
+  border-style: dashed;
+  border-style: dotted;
+  border-style: double;
+  border-style: groove;
+  border-style: ridge; */
+  /* border-color: gold;
+  border-color: silver;
+  border-color: blue; */
+  /* border: 10px solid green;
+  border: purple 5px double; */
+
+  border-top-width: 5px;
+  border-right-width: 10px;
+  border-bottom-width: 15px;
+  border-left-width: 20px;
+
+  border-top-style: solid;
+  border-right-style: dashed;
+  border-bottom-style: dotted;
+  border-left-style: double;
+
+  border-top-color: red;
+  border-right-color: green;
+  border-bottom-color: black;
+  border-left-color: purple;
+}
+
+div {
+  border: 20px solid black;
+  height: 200px;
+  width: 200px;
+  border-radius: 20px;
+
+  border-top-left-radius: 10px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 40px;
+}
+
+div:hover{
+  border-radius: 50%;
+}
