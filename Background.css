@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#dabba {
+  border: 10px solid black;
+  height: 100vh;
+  background-color: yellow;
+  background-color: rgb(255, 255, 0);
+  background-color: rgb(255, 255, 0, 1);
+  background-color: #ff0;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSt2FZRGnHc9N8RHhXQjTXwiWsekUAfLqsuM9QaTXhs2QMQ_2GoEf4DTI&s=10");
+  background-repeat: repeat;
+  background-repeat: repeat-x;
+  background-repeat: repeat-y;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: contain;
+  background-size: 350px;
+  background-size: 350px 450px;
+  background-position: top left;
+  background-position: top center;
+  background-position: top right;
+  background-position: right center;
+  background-position: bottom right;
+  background-position: bottom center;
+  background-position: bottom left;
+  background-position: left center;
+  background-position: center center;
+  background-position: top;
+  background-position: center;
+  background-attachment: scroll;
+  background-attachment: fixed;
+
+  background: hotpink url("https://content.tupaki.com/tupaki/feeds/2025/04/02/754197-89axmzqk.webp") no-repeat center/350px 450px fixed;
+}
