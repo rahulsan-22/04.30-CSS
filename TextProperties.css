@@ -1,0 +1,49 @@
+a {
+  text-decoration-line: none;
+}
+
+p {
+  text-decoration-line: overline;
+  text-decoration-line: line-through;
+  text-decoration-line: underline;
+
+  text-decoration-thickness: 1px;
+
+  text-decoration-style: none;
+  text-decoration-style: solid;
+  text-decoration-style: dashed;
+  text-decoration-style: dotted;
+  text-decoration-style: double;
+  text-decoration-style: wavy;
+
+  text-decoration-color: red;
+
+  text-decoration: overline 1px double green;
+
+  text-indent: 100px;
+
+  text-transform: uppercase;
+  text-transform: lowercase;
+  text-transform: capitalize;
+
+  text-shadow: 1px 1px 5px red;
+
+  word-spacing: normal;
+  word-spacing: 10px;
+
+  letter-spacing: normal;
+  letter-spacing: 1px;
+
+  line-height: normal;
+  line-height: 30px;
+
+  text-align: left;
+  text-align: center;
+  text-align: right;
+  text-align: justify;
+
+  text-align-last: left;
+  text-align-last: center;
+  text-align-last: right;
+  text-align-last: justify;
+}
