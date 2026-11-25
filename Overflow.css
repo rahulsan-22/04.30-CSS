@@ -1,0 +1,21 @@
+#dabba1{
+  border: 5px solid black;
+  height: 200px;
+  width: 150px;
+  overflow: visible;
+  overflow: hidden;
+  overflow: scroll;
+  overflow: auto;
+}
+
+#dabba2{
+  border: 5px solid red;
+  height: 250px;
+  width: 200px;
+  overflow: visible;
+  overflow: hidden;
+  overflow: scroll;
+  overflow: auto;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
