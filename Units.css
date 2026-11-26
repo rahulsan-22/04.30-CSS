@@ -1,0 +1,14 @@
+#parent {
+  height: 400px;
+  background-color: yellow;
+}
+#absolute {
+  height: 200px;
+  width: 800px;
+  background-color: red;
+}
+#relative {
+  height: 200px;
+  width: 50%;
+  background-color: blue;
+}

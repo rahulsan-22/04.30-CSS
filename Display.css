@@ -1,9 +1,40 @@
 h1 {
   border: 2px solid red;
-  display: inline;
+  /* display: inline; */
+  height: 200px;
+  width: 200px;
+  margin: 10px;
 }
 
 i {
   border: 2px solid blue;
-  display: block;
+  /* display: block; */
+  height: 200px;
+  width: 200px;
+  margin: 10px;
+}
+
+input{
+  border: 10px solid yellow;
+  height: 200px;
+  width: 150px;
+  margin: 50px;
+}
+
+div{
+  border: 5px solid black;
+  height: 150px;
+  width: 150px;
+  display: inline-block;
+}
+#one{
+  background-color: red;
+}
+#two{
+  background-color: green;
+  /* display: none; */
+  visibility: hidden;
+}
+#three{
+  background-color: blue;
 }
