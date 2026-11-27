@@ -1,4 +1,11 @@
-#parent {
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* ! PX vs % */
+
+/* #parent {
   height: 400px;
   background-color: yellow;
 }
@@ -11,4 +18,34 @@
   height: 200px;
   width: 50%;
   background-color: blue;
+} */
+
+/* ! VH and VW */
+main {
+  border: 2px solid black;
+  height: 10vh;
+  width: 50vw;
+  background-color: lightcoral;
+}
+
+/* ! EM */
+#parent{
+  font-size: 10px;
+}
+#first{
+  font-size: 2em;
+}
+#second{
+  font-size: 20px;
+}
+
+/*! REM */
+html{
+  font-size: 30px;
+}
+#okati{
+  font-size: 2rem;
+}
+#rendu{
+  font-size: 60px;
 }
